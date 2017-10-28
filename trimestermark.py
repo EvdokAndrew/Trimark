@@ -10,8 +10,8 @@ while True:
     marks = int(input("Input your mark here: "))
     if marks > 5:
         print("Int " + str(marks) + " bigger then five.")
-    # elif marks < 2:
-    #     print("Int must be bigger then two.")
+    elif marks < 2:
+        print("Int must be bigger then two.")
     else:
         count += 1
         trimesterMark += marks
