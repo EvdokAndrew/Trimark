@@ -2,6 +2,8 @@
 TrimesterMark
 Copyright (C) 2017. Ketsu8.
 '''
+isRound = True #Включить/Отключить округление оценки
+
 import math
 print("Starting TrimesterMark...")
 count = 0
@@ -15,4 +17,7 @@ while True:
     else:
         count += 1
         trimesterMark += marks
-        print("Now mark: " + str(round(trimesterMark / count, 1)) + ".")
+        if isRound:
+            print("Now mark: " + str(round(trimesterMark / count, 1)) + ".")
+        else:
+            print("Now mark: " + str(trimesterMark / count) + ".")
