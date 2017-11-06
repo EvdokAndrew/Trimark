@@ -2,13 +2,11 @@
 Trimark Utility
 Copyright (C) Ketsu8, 2017 – 2018.
 
-This utility allows you to know
-your approximate trimester rating. You
-must enter numbers, and the program
-after each input computes your estimate
-by the average aremetic from the sum of
-the estimates. Also, all numbers are
-rounded to the tenth.
+This utility allows you to know your approximate
+trimester rating. You must enter numbers, and the
+program after each input computes your estimate
+by the average aremetic from the sum of the estimates.
+Also, all numbers are rounded to the tenth.
 '''
 isRound = True #turn on round mark (by default it's on)
 
