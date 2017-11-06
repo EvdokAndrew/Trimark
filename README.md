@@ -1,5 +1,14 @@
 # Trimark Utility
 The Trimark utility allows you to know your approximate trimester rating. You must enter numbers, and the program after each input computes your estimate by the average aremetic from the sum of the estimates. Also, all numbers are rounded to the tenth.
+
+The code provides a function to enable/disable evaluation rounding:
+```python
+isRound = True #turn on round mark (by default it's on)
+```
+By default it's turned on, but if you need you can disable it:
+```python
+isRound = False
+```
 ### How to use it?
 After each input of numbers, the average score obtained is displayed.
 ```
