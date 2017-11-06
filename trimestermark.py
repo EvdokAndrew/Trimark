@@ -7,6 +7,8 @@ trimester rating. You must enter numbers, and the
 program after each input computes your estimate
 by the average aremetic from the sum of the estimates.
 Also, all numbers are rounded to the tenth.
+
+Read me on GitHub: http://github.com/Ketsu8/
 '''
 isRound = True #turn on round mark (by default it's on)
 
