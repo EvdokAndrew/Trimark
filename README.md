@@ -3,7 +3,7 @@ The Trimark utility allows you to know your approximate trimester rating. You mu
 ### How to use it?
 After each input of numbers, the average score obtained is displayed.
 ```
-python3 trimestermark.py 
+$ python3 trimestermark.py 
 Starting TrimesterMark...
 Input your mark here: 5
 Now mark: 5.0.
