@@ -2,7 +2,7 @@
 TrimesterMark
 Copyright (C) 2017. Ketsu8.
 '''
-isRound = True #Включить/Отключить округление оценки
+isRound = True #turn on round mark
 
 import math
 print("Starting TrimesterMark...")
