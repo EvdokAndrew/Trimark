@@ -3,11 +3,11 @@ The Trimark utility allows you to know your approximate trimester rating. You mu
 
 The code provides a function to enable/disable evaluation rounding:
 ```python
-isRound = True #turn on round mark (by default it's on)
+isRound = True #now turned on
 ```
 By default it's turned on, but if you need you can disable it:
 ```python
-isRound = False
+isRound = False #now disabled
 ```
 ### How to use it?
 After each input of numbers, the average score obtained is displayed.
