@@ -1,8 +1,8 @@
 # Trimark Utility
-===
 The Trimark utility allows you to know your approximate trimester rating. You must enter numbers, and the program after each input computes your estimate by the average aremetic from the sum of the estimates. Also, all numbers are rounded to the tenth.
 
 ## How use it?
+### FE
 ```
 python3 trimestermark.py 
 Starting TrimesterMark...
