@@ -13,3 +13,9 @@ Input your mark here: 3
 Now mark: 4.0.
 Input your mark here: 
 ```
+The code for obtaining the arithmetic mean from the entered estimates:
+```python
+count += 1
+trimesterMark += marks
+print("Now mark: " + str(trimesterMark / count) + ".")
+```
